@@ -1,0 +1,5 @@
+khatiyan_no,tenant_name_en,tenant_name_or,district,city,village_code,plot_no,area_acres,geometry_wkt
+KH-9021,Rabindra Nath Mohapatra,ରବୀନ୍ଦ୍ର ନାଥ ମହାପାତ୍ର,Khordha,Bhubaneswar,VIL-BBSR-01,102,1.68,"POLYGON ((85.8245 20.2965, 85.8265 20.2965, 85.8265 20.2985, 85.8245 20.2985, 85.8245 20.2965))"
+KH-4410,Rabindranath Mahapatra,ରବୀନ୍ଦ୍ରନାଥ ମହାପାତ୍ର,Puri,Puri,VIL-PURI-04,504,3.10,"POLYGON ((85.8145 19.8065, 85.8165 19.8065, 85.8165 19.8085, 85.8145 19.8085, 85.8145 19.8065))"
+KH-5521,Rabindra N. Mohapatra,ରବୀନ୍ଦ୍ର ନାଥ ମହାପାତ୍ର,Cuttack,Cuttack,VIL-CTC-09,802,0.95,"POLYGON ((85.8645 20.4665, 85.8665 20.4665, 85.8665 20.4685, 85.8645 20.4685, 85.8645 20.4665))"
+KH-3312,Pravat Kumar Das,ପ୍ରଭାତ କୁମାର ଦାସ,Jajpur,Jajpur,VIL-JAJ-12,301,1.45,"POLYGON ((86.3245 20.8465, 86.3265 20.8465, 86.3265 20.8485, 86.3245 20.8485, 86.3245 20.8465))"
