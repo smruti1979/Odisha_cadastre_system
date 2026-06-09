@@ -1,14 +1,16 @@
-Execution Checklist:
+The **Architecture document** and **Demo** video is avaialble in Artifacts directory.
+
+## Execution Checklist:
 Run the generation pipeline steps sequentially in your terminal to seed and view the data layers correctly:
 
 
-# 1. Regenerates clean, non-overlapping dataset batches
+## 1. Regenerates clean, non-overlapping dataset batches
 python data_generator.py
 
-# 2. Re-runs ROR string data validation and writes rows to the DB
+## 2. Re-runs ROR string data validation and writes rows to the DB
 python data_refresher.py
 
-# 3. Boots up the unified AI Cadastral Multi-City Suite
+## 3. Boots up the unified AI Cadastral Multi-City Suite
 streamlit run app.py
 
 
